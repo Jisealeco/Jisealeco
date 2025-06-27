@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Alex Akinjise
 
-<!--
-**Jisealeco/Jisealeco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About me
+I'm a backend developer in training with ALX ProDev,I'm passionate and detailed oriented backend developer with strong expertise in building scalable, secure and high performance server side applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : Full-stack web development (Django + React), Efficient database design, Building clean and catchy websites with modern tools
+- 🌱 I’m currently learning: ALX ProDev Backend Web Development Program
+- 📫 How to reach me: akinjisealex@gmail.com
+
+### 🧠 Tech Stack
+
+Frameworks: Django, Django REST Framework, React (learning)
+
+Tools: Git & GitHub, PostgreSQL, SQLite, VS Code, Postman
+
