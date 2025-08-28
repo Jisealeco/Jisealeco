@@ -1,16 +1,14 @@
 ## Hi there, I'm Alex Akinjise
 
 ### 🚀 About me
-I'm a backend developer in training with ALX ProDev,I'm passionate and detailed oriented backend developer with strong expertise in building scalable, secure and high performance server side applications.
+I'm a Software developer in training, My goal is to design, build, and maintain secure, scalable, and efficient server-side systems that power reliable applications. My mission is create robust and efficient backend solutions that ensure seamless functionality, data integrity, and scalability for applications and their users.
 
-
-- 🔭 I’m currently working on : Full-stack web development (Django + React), Efficient database design, Building clean and catchy websites with modern tools
-- 🌱 I’m currently learning: ALX ProDev Backend Web Development Program
+- 🌱 I’m currently learning: Backend Web Development Program
+- 🛠 Currently building projects to master backend development
+- 🌍 Based in Nigeria, open to global remote opportunities
 - 📫 How to reach me: akinjisealex@gmail.com
 
 ### 🧠 Tech Stack
 
-Frameworks: Django, Django REST Framework, React (learning)
-
-Tools: Git & GitHub, PostgreSQL, SQLite, VS Code, Postman
+Tools: Git & GitHub, VS Code
 
